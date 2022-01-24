@@ -3,7 +3,7 @@
 I'm a recent university graduate, aiming to jumpstart a career in tech. I have a passion for technology, love problem solving and really enjoy inspiring children to get into coding. 
 
 ## My interests
-- Cycling in the countryside as a great way to relax from the buzz of the city
+- Cycling in the countryside as to relax from the buzz of city-life
 - Watching interesting films and cinema from around the world
 - Listening to and discovering a range of music
 - Leicester City FC (the highs and the lows...)
